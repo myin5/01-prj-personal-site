@@ -107,6 +107,11 @@ h2 {
 
 .skills-cards { padding-top: 30px; padding-bottom: 30px; }
 
+.skill-icon {
+  font-size: 20px;        
+  line-height: 1;
+  margin-bottom: 6px;     
+}
 .skills-grid {
   width: min(1100px, 95vw);
   margin: 0 auto;
@@ -117,7 +122,7 @@ h2 {
 }
 
 .skill-card {
-  background: #dff2ff;          /* your requested card color */
+  background: #dff2ff;          
   border-radius: 12px;
   padding: 16px 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,.1);
